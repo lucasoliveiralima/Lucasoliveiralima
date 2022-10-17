@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Oliveira Lima  👋
 
 
-- 🔭 Hoje trabalho como Auxilia Administrativo 
+- 🔭 Hoje trabalho como Auxiliar Administrativo 
 - 🌱 Estudando Front-end (HTML, CSS e JavaScript) 
 - 😄 Pronouns: ele/dele
 
