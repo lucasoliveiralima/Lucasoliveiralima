@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho como Auxiliar Administrativo 
 - 🌱 Estudando Front-end (HTML, CSS e JavaScript) 
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/lucasoliveiralima">
