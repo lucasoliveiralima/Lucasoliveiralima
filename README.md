@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Lucas Oliveira Lima  👋
 
-
-- 🔭 Hoje trabalho como Auxiliar Administrativo 
-- 🌱 Estudando Front-end (HTML, CSS e JavaScript) 
-
 <div>
   <a href="https://github.com/lucasoliveiralima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasoliveiralima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
